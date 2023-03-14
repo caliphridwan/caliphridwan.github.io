@@ -2252,7 +2252,9 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/comp.webp");
+				background-image: url("../../images/front2.webp");
+				background-position: center;
+				background-size:cover;
 			}
 
 			#main > section.two {
@@ -2592,7 +2594,8 @@ input, select, textarea {
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
-				font-weight: 300;
+				font-weight: 800;
+				text-shadow: 3px 3px black;
 			}
 
 			.container {
